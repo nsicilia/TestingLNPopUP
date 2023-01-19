@@ -83,6 +83,8 @@
 			dependencies = (
 			);
 			name = TestingLNPopUP;
+			packageProductDependencies = (
+			);
 			productName = TestingLNPopUP;
 			productReference = 01ECA3D52978DAA900AB9082 /* TestingLNPopUP.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +113,8 @@
 				Base,
 			);
 			mainGroup = 01ECA3CC2978DAA900AB9082;
+			packageReferences = (
+			);
 			productRefGroup = 01ECA3D62978DAA900AB9082 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
